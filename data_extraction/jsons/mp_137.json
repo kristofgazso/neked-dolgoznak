@@ -1,0 +1,169 @@
+{
+  "nyilatkozattevo_nev": "dr. Orbán Balázs András",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "Magyar Állampapír",
+          "kibocsato": null,
+          "nevertek": 29000000,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": 77000000
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 40000000,
+          "penznem": null
+        },
+        {
+          "hitelező": null,
+          "osszeg_huf": 2400000,
+          "penznem": null
+        },
+        {
+          "hitelező": null,
+          "osszeg_huf": 10000000,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszterelnökség államtitkár",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Nemzeti Közszolgálati Egyetem TT elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Mathias Corvinus Collegium kuratóriumi elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Denkfabrik Kft. tulajdonos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszterelnöki Kabinetiroda politikai igazgató",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Nemzeti Közszolgálati Egyetem TT elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Mathias Corvinus Collegium kuratóriumi elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlés Hivatal országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

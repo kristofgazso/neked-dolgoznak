@@ -1,0 +1,325 @@
+{
+  "nyilatkozattevo_nev": "V. Németh Zsolt",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Vasvár",
+        "terulet_m2": null,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2000-08-30",
+        "tipus": "lakóház",
+        "alapterulet_m2": 56.0
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 5076.0,
+        "muvelesi_ag": "R",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1998-02-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 8511.0,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.54,
+        "szerzes_datuma": "1998-02-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 11922.7,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2003-08-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 3058.0,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2003-08-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 15463.8,
+        "muvelesi_ag": "SZ",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.09,
+        "szerzes_datuma": "1998-02-10",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 9090.4,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.08,
+        "szerzes_datuma": "2003-08-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 7513.2,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2003-08-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 1276.5,
+        "muvelesi_ag": "SZ",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "kárpótlási árv.",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1993-12-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Oszkó",
+        "terulet_m2": 15369.1,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.02,
+        "szerzes_datuma": null,
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásony",
+        "terulet_m2": 16248.2,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "1996-10-29",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásony",
+        "terulet_m2": 22099.6,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "2003-08-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásony",
+        "terulet_m2": 11000.0,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "1996-10-29",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásony",
+        "terulet_m2": 16760.5,
+        "muvelesi_ag": "E",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "2003-08-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Renault",
+          "modell": "Kadjar",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2018-06-18",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Ingatlan Bef. A",
+          "nevertek": 117016.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Prémium Kiegyensúlyozott U.A",
+          "nevertek": 982661.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Optima Tőkegarantált Bef. J.",
+          "nevertek": 35721.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Prémium Trend Klasszikus V.A. B. J.",
+          "nevertek": 1572217.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Tőkegarantált Rövid Kötvény Bef. J.",
+          "nevertek": 225385.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Prémium Magyar Állampapír",
+          "nevertek": 10000000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": [
+      "A sok apró külterületi ingatlan összterülete: 8,1ha melyből közel 3ha szántó, rét, a többi erdő"
+    ]
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszteri biztos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Nemzeti Fórum Egyesület alelnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Vasvári Nagytérségi Népfőiskoláért Alapítvány Kuratóriumának elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "államtitkár Energiaügyi Minisztérium",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

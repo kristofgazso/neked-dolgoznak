@@ -1,0 +1,112 @@
+{
+  "nyilatkozattevo_nev": "Gelencsér Attila",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Siófok",
+        "terulet_m2": 72.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2018",
+        "tipus": "üdülő",
+        "alapterulet_m2": 72.0
+      },
+      {
+        "telepules": "Kaposvár",
+        "terulet_m2": 720.0,
+        "muvelesi_ag": "LAKÓHÁZ, UDVAR",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2020",
+        "tipus": "lakóház",
+        "alapterulet_m2": 160.0
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "bankbetét",
+          "kibocsato": null,
+          "nevertek": 81079000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": "JELZÁLOGHITEL",
+          "osszeg_huf": 6653351,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": "CSALÁDI MAGÁNKÖLCSÖN",
+          "osszeg_huf": 8500000,
+          "penznem": null
+        }
+      ]
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "PARALIMPIAI BIZOTTSÁGI TAG",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "BB KAPOS KFt.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

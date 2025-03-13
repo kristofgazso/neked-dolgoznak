@@ -1,0 +1,382 @@
+{
+  "nyilatkozattevo_nev": "Font Sándor",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 321.0,
+        "muvelesi_ag": "üdülőterület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "1991",
+        "tipus": "üdülő",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 1405.0,
+        "muvelesi_ag": "kivett gazdasági épület, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2021",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": 70.0
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 1193.0,
+        "muvelesi_ag": "kivett, beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2021",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Balatonföldvár",
+        "terulet_m2": 63.0,
+        "muvelesi_ag": "lakóingatlan",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2016",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 3.865,
+        "muvelesi_ag": "szőlő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "1994",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 0.453,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándékozás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2004",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 0.199,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2004",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 0.477,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2004",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 0.188,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2008",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 0.368,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2008",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 0.376,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2009",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 9.604,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2009",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 1.073,
+        "muvelesi_ag": "legelő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "hagyaték",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2020",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Soltvadkert",
+        "terulet_m2": 0.409,
+        "muvelesi_ag": "szőlő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "hagyaték",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2020",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Imrehegy",
+        "terulet_m2": 0.779,
+        "muvelesi_ag": "gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "hagyaték",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2020",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Imrehegy",
+        "terulet_m2": 0.425,
+        "muvelesi_ag": "tanya",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "hagyaték",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2020",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Imrehegy",
+        "terulet_m2": 10.244,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "hagyaték",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2020",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Volkswagen",
+          "modell": "Tiguan",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vétel",
+          "szerzes_datuma": "2018",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "pótkocsi",
+          "marka": "autóutánfutó, egyedi gyártmányú",
+          "modell": null,
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "hagyaték",
+          "szerzes_datuma": "2020",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "egyéb",
+          "marka": "Traktor Belorusz",
+          "modell": "920.3",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "hagyaték",
+          "szerzes_datuma": "2020",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "pótkocsi",
+          "marka": "Pótkocsi Román",
+          "modell": "5t",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "hagyaték",
+          "szerzes_datuma": "2020",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "pótkocsi",
+          "marka": "Pótkocsi RM7",
+          "modell": null,
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vétel",
+          "szerzes_datuma": "2021",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "kötvény",
+          "kibocsato": "OTP Prémium Pénzpiaci Befektetési Jegy",
+          "nevertek": 16000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "kötvény",
+          "kibocsato": "OTP Maxima Befektetési Jegy",
+          "nevertek": 4000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Aranyszárny Euro G62",
+          "nevertek": 114000.0,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Aranyszárny+Bónusz",
+          "nevertek": 14216.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": {
+        "osszeg_huf": 10000000.0
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 32000000.0,
+        "devizaban_forinterteken_huf": 25494.0
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő\nMezőgazdasági Biz. Elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Östermelők Családi Gazdasága /ŐCSG/",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Pálinkafőzők Országos Egyesülete Elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Östermelők Családi Gazdasága /\nŐCSG/ * A jelölt 3-as kategória a\nmezőgazdasági árbevételre vonatkozik.\nA jelenlegi árbevételi nagyságrendem\nnem éri el az adókötelezettség határát.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Pálinkafőzők Országos\nEgyesülete Elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

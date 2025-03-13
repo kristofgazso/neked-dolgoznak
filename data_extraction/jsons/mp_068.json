@@ -1,0 +1,164 @@
+{
+  "nyilatkozattevo_nev": "dr. Harangozó Tamás Attila",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Gerjen",
+        "terulet_m2": 38469.0,
+        "muvelesi_ag": "gyep, legelő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.05,
+        "szerzes_datuma": "2004",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Gerjen",
+        "terulet_m2": 15605.0,
+        "muvelesi_ag": "gyep, legelő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.05,
+        "szerzes_datuma": "2004",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csipkerek",
+        "terulet_m2": 4320.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1982",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Bátaszék",
+        "terulet_m2": 606.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2009",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Tesla",
+          "modell": "model 3",
+          "gyartasi_ev": 2020,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2024",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Mercedes",
+          "modell": "CLK",
+          "gyartasi_ev": 1997,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2024",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "lakástakarék",
+          "kibocsato": "OTP Lakáskassza",
+          "nevertek": 1937443.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": null,
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": [
+        "Magánkölcsön"
+      ]
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": "OTP",
+          "osszeg_huf": 1600000.0,
+          "penznem": "HUF"
+        },
+        {
+          "hitelező": "MBH",
+          "osszeg_huf": 2872898.0,
+          "penznem": "HUF"
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Táncsics Mihály\nAlapítvány - kurariumi tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Szabad Sajtó Alapítvány\nkurariumi tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Villányi úti Konferenciaközpont\nés Szabadegyetem\nAlapítvány - kurariumi tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": "No income data was extracted as there were no income brackets selected (with an 'X' or similar). The gazdasagi_erdekeltsegi_nyilatkozat and jovedelemnyilatkozat sections did not have any X's to indicate the bracket amount."
+}

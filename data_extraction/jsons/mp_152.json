@@ -1,0 +1,233 @@
+{
+  "nyilatkozattevo_nev": "Dr SIMON MIKLÓS",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Debrecen",
+        "terulet_m2": 1094.0,
+        "muvelesi_ag": "udvar",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1991",
+        "tipus": "lakóház",
+        "alapterulet_m2": 69.7
+      },
+      {
+        "telepules": "Nyírbogát",
+        "terulet_m2": 7145.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "1990",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyírbogát",
+        "terulet_m2": 3783.0,
+        "muvelesi_ag": "udvar + kert",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2002",
+        "tipus": "lakóház",
+        "alapterulet_m2": 190.0
+      },
+      {
+        "telepules": "Nyírbogát",
+        "terulet_m2": 7070.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2020",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Érpatak",
+        "terulet_m2": 8829.0,
+        "muvelesi_ag": "udvar + kert",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2013",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Újfehértó",
+        "terulet_m2": 8461.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2013",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Érpatak",
+        "terulet_m2": 59000.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2013",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Audi",
+          "modell": "A6",
+          "gyartasi_ev": "2016",
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2018",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Premium M. Állampapír",
+          "nevertek": 25000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "ERSTE Alapok",
+          "nevertek": 22000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Premium M. Állampapír",
+          "nevertek": 21200000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": 1000000.0
+      },
+      "keszpenz": null,
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési Képv.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Nyírbogát Hoportyó VT. elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Bogát 2000 SE tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Bencés Diákszöv. tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Őstermelő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": [
+      {
+        "tevekenyseg": "Ingatlan bérbeadás",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ]
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

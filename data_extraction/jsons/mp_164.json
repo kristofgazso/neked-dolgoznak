@@ -1,0 +1,198 @@
+{
+  "nyilatkozattevo_nev": "Dr. Szabó Tünde",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Budapest II/A. kerület",
+        "terulet_m2": 825,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.38,
+        "szerzes_datuma": "2010",
+        "tipus": "lakóház",
+        "alapterulet_m2": 177
+      },
+      {
+        "telepules": "Nyíregyháza",
+        "terulet_m2": null,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2001",
+        "tipus": "lakás",
+        "alapterulet_m2": 52
+      },
+      {
+        "telepules": "Budapest II. kerület",
+        "terulet_m2": 44,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "üzlet",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2014",
+        "tipus": "Társasház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Budapest II. kerület",
+        "terulet_m2": 65,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2023",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 24200000,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "KTM Minisztérium Kormánybiztos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Olimpiai Életjáradék",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "C.egyetemi tanár",
+        "szervezet": "Testnevelési Egyetem",
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "MTA Köztestületi tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Tokaj Borvidék Fejlesztési Tanács",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Nők Nyíregyházáért Klub Alapító tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": [
+      {
+        "tagsag_tisztseg": null,
+        "gazdasagi_tarsasag_neve": "Dr. SÁVOLT-SZABÓ ÜGYVÉDI IRODA",
+        "tulajdoni_hanyad": 1.0,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ]
+  },
+  "data_not_extracted_explanation": null
+}

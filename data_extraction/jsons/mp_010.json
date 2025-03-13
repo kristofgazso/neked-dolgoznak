@@ -1,0 +1,299 @@
+{
+  "nyilatkozattevo_nev": "Becsó Zsolt",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Pásztó",
+        "terulet_m2": 29.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1994-12-11",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Salgótarján",
+        "terulet_m2": 95.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2000-03-03",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Salgótarján",
+        "terulet_m2": 18.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2000-03-03",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Révfülöp",
+        "terulet_m2": 527.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2014-05-16",
+        "tipus": "üdülő",
+        "alapterulet_m2": 160.0
+      },
+      {
+        "telepules": "Budapest II. Kerület",
+        "terulet_m2": 93.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2020",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásztó",
+        "terulet_m2": 454.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.25,
+        "szerzes_datuma": "2015-04-20",
+        "tipus": "lakóház",
+        "alapterulet_m2": 150.0
+      },
+      {
+        "telepules": "Pásztó",
+        "terulet_m2": 945.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.17,
+        "szerzes_datuma": "2015-04-20",
+        "tipus": "üdülő",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásztó",
+        "terulet_m2": 1308.0,
+        "muvelesi_ag": "szőlő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2009",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásztó",
+        "terulet_m2": 2523.0,
+        "muvelesi_ag": "szőlő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2009",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásztó",
+        "terulet_m2": 4736.0,
+        "muvelesi_ag": "szőlő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2016",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pásztó",
+        "terulet_m2": 814.0,
+        "muvelesi_ag": "beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2010",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "értékpapír",
+          "kibocsato": null,
+          "nevertek": 91090.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "részvény",
+          "kibocsato": null,
+          "nevertek": 1747.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": 14316.0
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 12000000.0,
+          "penznem": null
+        }
+      ]
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Ara-Coeli Kft, Tulajdonos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Görbeország Turisztikai Egyesület, Elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Polgári Salgótarjánért Alapítvány, Alapító",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Polgári Pásztóért Alapítvány, Alapító",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Polgári Bátonyterenyéért Alapítvány, Alapító",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Tulajdonos",
+        "szervezet": "Ara-Coeli Kft",
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

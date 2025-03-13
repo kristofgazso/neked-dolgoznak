@@ -1,0 +1,3 @@
+The objective is to parse an MP declaration from a pdf containing data for the MPs, extracting all key fields using regex-based extraction from the text. The parsing is intended to output a structured JSON file (mp_data.json). Multiple errors arose during testing.
+
+Use uv for package management

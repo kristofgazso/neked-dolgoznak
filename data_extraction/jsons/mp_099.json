@@ -1,0 +1,221 @@
+{
+  "nyilatkozattevo_nev": "Dr. Kiss János",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Miskolc",
+        "terulet_m2": 380.0,
+        "muvelesi_ag": "Lakóház, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2005",
+        "tipus": "lakóház",
+        "alapterulet_m2": 230.0
+      },
+      {
+        "telepules": "Fonyód",
+        "terulet_m2": 1350.0,
+        "muvelesi_ag": "Üdülőépület és udvar",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.14,
+        "szerzes_datuma": "2005",
+        "tipus": "üdülő",
+        "alapterulet_m2": 30.0
+      },
+      {
+        "telepules": "Átány",
+        "terulet_m2": 1079.0,
+        "muvelesi_ag": "Beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.25,
+        "szerzes_datuma": "2017",
+        "tipus": "egyéb",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Volvo",
+          "modell": "V60",
+          "gyartasi_ev": 2015,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2023",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "részvény",
+          "kibocsato": null,
+          "nevertek": 41000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": null,
+          "nevertek": 600000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": [
+        "KORTÁRS MAGYAR GRAFIKÁK, FESTMÉNYEK"
+      ]
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Miskolc MJ. Város Alpolgármester 2019.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Mivíz Kft. Felügyelő Biz. tag 2019",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Diósgyőr FC Kft. Felügyelő Biz. tag 2019",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "MVLC Miskolci Vízilabda Club Kft. FB. tag 2019",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Queen Mary Kft. üzletrész tulajdonos 2019-",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Printória Kft. üzletrész tulajdonos 2019-",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszterelnökség Miniszterelnöki Biztos 2020-22",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Queen Mary Kft. Üzletrész tulajdonos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Printória Kft. Üzletrész tulajdonos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

@@ -1,0 +1,189 @@
+{
+  "nyilatkozattevo_nev": "Varga Mihály",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 626.0,
+        "muvelesi_ag": "telek",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2001",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Bp. II.",
+        "terulet_m2": 94.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2002",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Gyenesdiás",
+        "terulet_m2": 2698.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2022",
+        "tipus": null,
+        "alapterulet_m2": 246.0
+      },
+      {
+        "telepules": "Bp II.",
+        "terulet_m2": 44.92,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.03,
+        "szerzes_datuma": "2009",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Bp II.",
+        "terulet_m2": 137.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2009",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [
+        {
+          "megnevezes": "Kabala nevű sötétpej mén (Furioso-north star), bértartásban a Karcagi Kunlovardában",
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2024",
+          "ertek_huf": null
+        }
+      ],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "állampapír",
+          "kibocsato": null,
+          "nevertek": 36241300.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "befektetési jegy",
+          "kibocsato": null,
+          "nevertek": 14896000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "részvény",
+          "kibocsato": "Richter, Mol, OTP",
+          "nevertek": 11261400.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": 8610000.0
+      },
+      "mas_vagyontargyak": [
+        "ÖNK. NYUG. 1.610.000,– Ft"
+      ]
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 58600000.0,
+          "penznem": null
+        }
+      ]
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "miniszter",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "elnök, RKÓEA",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "elnök, PMA",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "elnök, PMA",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

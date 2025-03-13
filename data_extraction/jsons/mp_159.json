@@ -1,0 +1,274 @@
+{
+  "nyilatkozattevo_nev": "dr Seszták Miklós",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Kisvárda",
+        "terulet_m2": 0.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1996",
+        "tipus": "lakóház",
+        "alapterulet_m2": 87.0
+      },
+      {
+        "telepules": "Kisvárda",
+        "terulet_m2": 0.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.6,
+        "szerzes_datuma": "1989",
+        "tipus": "lakóház",
+        "alapterulet_m2": 82.0
+      },
+      {
+        "telepules": "Kisvárda",
+        "terulet_m2": 0.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.4,
+        "szerzes_datuma": "2022",
+        "tipus": "lakóház",
+        "alapterulet_m2": 82.0
+      },
+      {
+        "telepules": "Budapest, XIII.kerület",
+        "terulet_m2": 0.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2007",
+        "tipus": "lakóház",
+        "alapterulet_m2": 98.0
+      },
+      {
+        "telepules": "Budapest, XIII.kerület",
+        "terulet_m2": 0.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "alapítás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2012",
+        "tipus": "lakás",
+        "alapterulet_m2": 66.0
+      },
+      {
+        "telepules": "Kisvárda",
+        "terulet_m2": 731.0,
+        "muvelesi_ag": "kivett lakóház, udvar, gazdasági épület",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2019",
+        "tipus": "lakás",
+        "alapterulet_m2": 100.0
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "magyar állampapir",
+          "nevertek": 592000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Egyensúly Nyíltv.Alap - pénzintézeti",
+          "nevertek": 20000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Rövid Kötvény Alap- pénzintézeti",
+          "nevertek": 200000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "PB TOP származtatott Alap- pénzintézeti",
+          "nevertek": 2200000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "SUPRA SZÁRM.Bef.Jegy- pénzintézeti",
+          "nevertek": 1140000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "EMDA ALAP A sor. - pénzintézeti",
+          "nevertek": 2500000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Ingatlan bef.jegy.- pénzintézeti",
+          "nevertek": 2000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "EMDA származtatott Alap Bej.Jegy - pénzintézeti",
+          "nevertek": 1500000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "PRIME Ingatlanbefektetési Alap Bef.Jegy-pénzintézeti",
+          "nevertek": 25332000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Concorde Vagyonkezelésben",
+          "nevertek": 150000000.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "HUF kötvény",
+          "nevertek": 8000000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": {
+        "osszeg_huf": 19000000.0
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 55175000.0,
+        "devizaban_forinterteken_huf": 11453000.0
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": [
+      "Gyermekeim már nem élnek közös háztartásban velünk. Erre tekintettel az ő vagyonnyilatkozataikat\nmár nem csatolom."
+    ]
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "kormánybiztos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Seszták és Társa Ügyvédi Iroda",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": 8000000.0
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": [
+      {
+        "tevekenyseg": "realizált pü-i eredmény/kamat-pénzintézet",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": 9000000.0
+        }
+      },
+      {
+        "tevekenyseg": "nem realizált pü-i eredmény/kamat-pénzintézet",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": 9000000.0
+        }
+      }
+    ]
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Ramiris Autó KFT tulajdonos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Seszták és Társa Ügyvédi Iroda - tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": 8000000.0
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

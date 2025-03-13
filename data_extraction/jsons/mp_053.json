@@ -1,0 +1,184 @@
+{
+  "nyilatkozattevo_nev": "Dr. Gurmai Zita",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Budapest XI.",
+        "terulet_m2": 56.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.2,
+        "szerzes_datuma": "1981",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Budapest II.",
+        "terulet_m2": 103.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2009",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Tatabánya",
+        "terulet_m2": 53.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2022",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Brüsszel",
+        "terulet_m2": 97.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2004",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Volkswagen",
+          "modell": "T-Cross",
+          "gyartasi_ev": 2020,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "VISIO",
+          "nevertek": 311721.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "részvény",
+          "kibocsato": "HORIZONTAL EXPERTISE DYN. CLASSIC SHARES",
+          "nevertek": 244104.0,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "MOTIVA",
+          "nevertek": 5793595.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "részvény",
+          "kibocsato": "ÉRTÉKPAPÍR",
+          "nevertek": 5663819.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "LEKÖTETLEN ÖSSZEG",
+          "nevertek": 109665.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Euroalap",
+          "nevertek": 70981593.0,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "DEVIZA",
+          "nevertek": 799.0,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": "R 6108 Aktív Max Nyug. Bizt.",
+          "nevertek": 2384340.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "EUROALAP",
+          "nevertek": 71111.0,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "BALANSZ PRO NYUGDÍJ.Bizt.",
+          "nevertek": 861628204.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "VISTA",
+          "nevertek": 1303.0,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": "EGYSZERI DÍJFIZ. NYUGDÍJ ÉLETÚT",
+          "nevertek": 859426645.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "KRONOSZ",
+          "nevertek": 4206.0,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "VISIO",
+          "nevertek": 43931967.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

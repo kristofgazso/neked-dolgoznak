@@ -1,0 +1,322 @@
+{
+  "nyilatkozattevo_nev": "Dr Nagy István",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Mosonmagyaróvár",
+        "terulet_m2": 1456.0,
+        "muvelesi_ag": "lakóház",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1994-07-08",
+        "tipus": "lakóház",
+        "alapterulet_m2": 120.0
+      },
+      {
+        "telepules": "Mosonmagyaróvár",
+        "terulet_m2": 68.0,
+        "muvelesi_ag": "lakóház",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": null,
+        "tipus": "lakóház",
+        "alapterulet_m2": 68.0
+      },
+      {
+        "telepules": "Újfehértó",
+        "terulet_m2": 1160.0,
+        "muvelesi_ag": "lakóépület",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.17,
+        "szerzes_datuma": "2009-07-23",
+        "tipus": "lakóház",
+        "alapterulet_m2": 100.0
+      },
+      {
+        "telepules": "Dunaremete",
+        "terulet_m2": 4931.0,
+        "muvelesi_ag": "Szántó és gazdasági épület",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2013-10-03",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": 36.0
+      },
+      {
+        "telepules": "Somlóvásárhely",
+        "terulet_m2": 3953.0,
+        "muvelesi_ag": "Szőlő + Gazdasági épület",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2019-02-18",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": 68.0
+      },
+      {
+        "telepules": "levél",
+        "terulet_m2": 63332.0,
+        "muvelesi_ag": "Erdő-Gyep",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "1997",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Mecsér",
+        "terulet_m2": 15785.0,
+        "muvelesi_ag": "Gyümölcsös, fásított terület",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2016-10-24",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Mecsér",
+        "terulet_m2": 5516.0,
+        "muvelesi_ag": "legelő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2018",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Mecsér",
+        "terulet_m2": 5658.0,
+        "muvelesi_ag": "lakóház, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "tanya",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2014-01-05",
+        "tipus": "tanya",
+        "alapterulet_m2": 98.0
+      },
+      {
+        "telepules": "Mecsér",
+        "terulet_m2": 14729.0,
+        "muvelesi_ag": "legelő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2019-11-15",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Várbalog",
+        "terulet_m2": 11947.0,
+        "muvelesi_ag": "agyaggödör",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2020-01-06",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Mosonmagyaróvár",
+        "terulet_m2": 18870.0,
+        "muvelesi_ag": "fásított terület",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2019-09-30",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Újfehértó",
+        "terulet_m2": 26656.0,
+        "muvelesi_ag": "Szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2001",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Toyota",
+          "modell": "Dyna",
+          "gyartasi_ev": 2004,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2013-04-24",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Mercedes-Benz",
+          "modell": "Atego 1328",
+          "gyartasi_ev": 2000,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2020-09-14",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "csónak",
+          "marka": "Honda",
+          "modell": "ET Jula 475",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2016-08-04",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [
+        {
+          "megnevezes": "100 családos méhészet",
+          "szerzes_jogcime": "vásárlás, szaporítás",
+          "szerzes_datuma": "1993",
+          "ertek_huf": null
+        }
+      ],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": "GRAWE",
+          "nevertek": 11600000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": 2000000.0
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 13000000.0,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": [
+        "Aranykor Önkéntes Nyugdíjpénztár Ft"
+      ]
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszter",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "OMME-Móvári szervezet tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Szigetközi Vadásztársásag tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszter (Agrárminisztérium)",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "őstermelő méhész",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": null,
+        "szervezet": "Rónafői Agrár Kft",
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

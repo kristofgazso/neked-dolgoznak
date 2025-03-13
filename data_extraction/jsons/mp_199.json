@@ -1,0 +1,179 @@
+{
+  "nyilatkozattevo_nev": "Vécsey László József",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Szada",
+        "terulet_m2": 1165.0,
+        "muvelesi_ag": "Kivett",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2019",
+        "tipus": "lakóház",
+        "alapterulet_m2": 220.0
+      },
+      {
+        "telepules": "Gödöllő",
+        "terulet_m2": 60.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2020",
+        "tipus": "lakóház",
+        "alapterulet_m2": 60.0
+      },
+      {
+        "telepules": "Szada",
+        "terulet_m2": 121000.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "kárpótlás",
+        "tulajdoni_hanyad": 0.38,
+        "szerzes_datuma": "1996",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Mogyoród",
+        "terulet_m2": 2866.0,
+        "muvelesi_ag": "szőlő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "kárpótlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "1996",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nemti",
+        "terulet_m2": 13000.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "kárpótlás",
+        "tulajdoni_hanyad": 0.05,
+        "szerzes_datuma": "1996",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Volkswagen",
+          "modell": "Passat",
+          "gyartasi_ev": 2016,
+          "szerzes_jogcime": "lízing",
+          "szerzes_datuma": "2018",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "BMAP",
+          "nevertek": 4700000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 2401093,
+          "penznem": "HUF"
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Kelet-Margita EBT elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Lakás bérbeadás",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Kelet-Margita EBT elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

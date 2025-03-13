@@ -1,0 +1,207 @@
+{
+  "nyilatkozattevo_nev": "Bányai Gábor",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Jánoshalma",
+        "terulet_m2": 913,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2003",
+        "tipus": "lakóház",
+        "alapterulet_m2": 235.0
+      },
+      {
+        "telepules": "Borota",
+        "terulet_m2": 42000,
+        "muvelesi_ag": "gyümölcsös",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "1991",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Varság",
+        "terulet_m2": null,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "építés",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2017",
+        "tipus": "lakóház",
+        "alapterulet_m2": 97.0
+      },
+      {
+        "telepules": "Borota",
+        "terulet_m2": 400,
+        "muvelesi_ag": "tanya",
+        "szantofold": false,
+        "jogi_jelleg": "tanya",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2022",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Borota",
+        "terulet_m2": 5354,
+        "muvelesi_ag": "gyümölcsös, szőlő",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2022",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Toyota",
+          "modell": "RAV 4",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2022",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Landini",
+          "modell": "Rex mg-i vontató",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2014",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Goldoni",
+          "modell": "Star mg-i vontató",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2019",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": 5000000
+      },
+      "keszpenz": {
+        "osszeg_huf": 600000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 13000000,
+          "penznem": "HUF"
+        },
+        {
+          "hitelező": null,
+          "osszeg_huf": 5000000,
+          "penznem": "HUF"
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Alapítványi tagság",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Kormánybiztos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "mg-i őstermelő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Fejlesztési Tanács társelnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

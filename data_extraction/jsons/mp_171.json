@@ -1,0 +1,174 @@
+{
+  "nyilatkozattevo_nev": "Sebők Éva",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Orosháza",
+        "terulet_m2": 60,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2017",
+        "tipus": "lakóház",
+        "alapterulet_m2": 60
+      },
+      {
+        "telepules": "Kecskemét",
+        "terulet_m2": 55,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.15,
+        "szerzes_datuma": "2021",
+        "tipus": "lakóház",
+        "alapterulet_m2": 55
+      },
+      {
+        "telepules": "Tótkomlós",
+        "terulet_m2": 1986,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.01,
+        "szerzes_datuma": "2017",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Tótkomlós",
+        "terulet_m2": 9142,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2017",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Tótkomlós",
+        "terulet_m2": 550000,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.02,
+        "szerzes_datuma": "2017",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Tótkomlós",
+        "terulet_m2": 30000,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.02,
+        "szerzes_datuma": "2017",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Tótkomlós",
+        "terulet_m2": 510000,
+        "muvelesi_ag": "szántó és legelő",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.01,
+        "szerzes_datuma": "2017",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 1205516,
+          "penznem": "FRF"
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": [
+      "Önkéntes nyugdíjpénztári megtakarítás 1 435 683 Ft (HNYP Növekedési, ELSZE: 422 609,09)"
+    ]
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "önkormányzati képviselő - Orosháza",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "önkormányzati képviselő - Békés megye",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Födhaszonbér",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

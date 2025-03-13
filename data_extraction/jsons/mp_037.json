@@ -1,0 +1,874 @@
+{
+  "nyilatkozattevo_nev": "Dócs Dávid",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 1363.0,
+            "muvelesi_ag": "Lakóház, udvar",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.5,
+            "szerzes_datuma": "2015-03-11",
+            "tipus": "lakóház",
+            "alapterulet_m2": 100.0
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 1500.0,
+            "muvelesi_ag": "lakóház, udvar",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.5,
+            "szerzes_datuma": "2021-06",
+            "tipus": "lakóház",
+            "alapterulet_m2": 70.0
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 80021.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.36,
+            "szerzes_datuma": "2020-02-01",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 84420.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.68,
+            "szerzes_datuma": "2020-02-01",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 37606.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.88,
+            "szerzes_datuma": "2020-05-07",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 5519.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2020-05-07",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 681.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2020-02-01",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 37253.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.52,
+            "szerzes_datuma": "2022-06",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 1608.0,
+            "muvelesi_ag": "lakóház, udvar",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.5,
+            "szerzes_datuma": "2020-01-08",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Szügy",
+            "terulet_m2": 442.0,
+            "muvelesi_ag": "lakóház, udvar",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "ajándékozás",
+            "tulajdoni_hanyad": 0.5,
+            "szerzes_datuma": "2020-03-13",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 3474.0,
+            "muvelesi_ag": "gazdasági épület, udvar",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2012-03-22",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 51957.0,
+            "muvelesi_ag": "szántó, legelő",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.9,
+            "szerzes_datuma": "2024-07-05",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 25486.0,
+            "muvelesi_ag": "szántó, rét, legelő",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel, csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": null,
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 16012.0,
+            "muvelesi_ag": "szántó",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.98,
+            "szerzes_datuma": "2012-04-12",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 23792.0,
+            "muvelesi_ag": "erdő, fás terület",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel, csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": null,
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 60100.0,
+            "muvelesi_ag": "szántó, legelő",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": 0.99,
+            "szerzes_datuma": null,
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 8898.0,
+            "muvelesi_ag": "erdő, legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2014-02-21",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 24518.0,
+            "muvelesi_ag": "szántó",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2014-04-18",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 40973.0,
+            "muvelesi_ag": "szántó, erdő, legelő",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel, csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": null,
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 6781.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": 0.5,
+            "szerzes_datuma": "2014-03-26",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 4122.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2014-02-25",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 6000.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2012-10-19",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 6000.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2013-09-09",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 2100.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2014-02-25",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 75148.0,
+            "muvelesi_ag": "szántó",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2017-07-26",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 1430.0,
+            "muvelesi_ag": "lakóház, udvar",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2022-09-20",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 6361.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2020-05-07",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 18288.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2020-05-07",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 6486.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2021",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 4294.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel/csere",
+            "tulajdoni_hanyad": 1.0,
+            "szerzes_datuma": "2022-2024",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 14496.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.5,
+            "szerzes_datuma": "2020",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 4388.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023-10",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 4046.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023-10",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 6079.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023-10",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 247514.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.52,
+            "szerzes_datuma": "2019-2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 22191.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.05,
+            "szerzes_datuma": "2023-11",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 37172.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.66,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 535705.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.57,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 2828.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 37000.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.52,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 49400.0,
+            "muvelesi_ag": "legelő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel, csere",
+            "tulajdoni_hanyad": 0.96,
+            "szerzes_datuma": "2017-2022",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 12933.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel, csere",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2021-2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 81948.0,
+            "muvelesi_ag": "szántó, erdő",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023-04",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 8496.0,
+            "muvelesi_ag": "szántó, erdő",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023-04",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 12502.0,
+            "muvelesi_ag": "szántó",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023-04",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 17880.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 8795.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 8995.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 18794.0,
+            "muvelesi_ag": "szántó",
+            "szantofold": true,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2023",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 6513.0,
+            "muvelesi_ag": "erdő",
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": null,
+            "szerzes_datuma": "2024",
+            "tipus": null,
+            "alapterulet_m2": null
+        },
+        {
+            "telepules": "Cserháthaláp",
+            "terulet_m2": 3702.0,
+            "muvelesi_ag": null,
+            "szantofold": false,
+            "jogi_jelleg": null,
+            "szerzes_jogcime": "adásvétel",
+            "tulajdoni_hanyad": 0.1,
+            "szerzes_datuma": "2024-09",
+            "tipus": null,
+            "alapterulet_m2": null
+        }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Skoda",
+          "modell": "Kodiaq",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2020-02-24",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "IFA",
+          "modell": "TGK",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2017",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Tata",
+          "modell": "Telcoline",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2018-01-22",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Volkswagen",
+          "modell": "Lt 40",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2018-11-02",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Tata",
+          "modell": "Telcoline",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2024-07",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Suzuki",
+          "modell": "Swift",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2023-12-23",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Robur",
+          "modell": null,
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2024-07",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Skoda",
+          "modell": "Superb",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2024-03",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [
+        {
+          "megnevezes": "Saxonia vetőgép",
+          "szerzes_jogcime": null,
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "MTZ erőgép",
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2021",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Agrimaster szárzúzó",
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2021",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "pótkocsi",
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2021",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Agrimaster szárzúzó",
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2017",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Keeway Masiff quad",
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2023",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "kézi munkagépek",
+          "szerzes_jogcime": null,
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "mezőgazdasági munkagépek",
+          "szerzes_jogcime": null,
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "6 darab ló",
+          "szerzes_jogcime": null,
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        }
+      ],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": {
+        "osszeg_huf": 5000000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 40000000,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 29000000,
+          "penznem": null
+        }
+      ]
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Egyesületi elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Szociális szövetkezet elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": [
+      {
+        "tevekenyseg": "őstermelői, erdőgazdálkodási tev.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tevekenyseg": "Dócs Családi Gazdaság",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ]
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Dócs Családi Gazdaság vezetője",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": [],
+    "data_not_extracted_explanation": null
+  },
+  "data_not_extracted_explanation": "Many values for the Ingatlan section were not filled, so I left them blank. Also, many fields were not standardized so i extracted them directly from the document to remain accurate and consistent."
+}

@@ -1,0 +1,354 @@
+{
+  "nyilatkozattevo_nev": "Dr Kovács Zoltán",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 692,
+        "muvelesi_ag": "beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1982",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 889,
+        "muvelesi_ag": "beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1982",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 1229,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1993",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 3565,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1993",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": null,
+        "terulet_m2": 3193,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1993",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 1.4,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1995",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 7.7,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.03,
+        "szerzes_datuma": "1994",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 5.5,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "1994",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Ugod",
+        "terulet_m2": 0.5,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1998",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 54,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2001",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Fenyőfő",
+        "terulet_m2": 84,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.03,
+        "szerzes_datuma": "2010",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Fenyőfő",
+        "terulet_m2": 53,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.03,
+        "szerzes_datuma": "2010",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Fenyőfő",
+        "terulet_m2": 96,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.03,
+        "szerzes_datuma": "2010",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Ugod",
+        "terulet_m2": 75,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.01,
+        "szerzes_datuma": "2011",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Ugod",
+        "terulet_m2": 79,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.02,
+        "szerzes_datuma": "2011",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Ugod",
+        "terulet_m2": 34,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.01,
+        "szerzes_datuma": "2011",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 1061,
+        "muvelesi_ag": "beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2020",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "KIA",
+          "modell": "Sportage",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2022",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "állampapír",
+          "kibocsato": null,
+          "nevertek": 32100000,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 17500000,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Pápai Egy. Labdr. Club tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Nemz. Gyermekmentő Sz tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Összefogás Pápa V.Beteg Gyerm. A. alapító",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Pápai Huszár Egy. tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "VEAB Közig Mcs. tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Pápai Műv T. társaság tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

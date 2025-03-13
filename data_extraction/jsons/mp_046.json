@@ -1,0 +1,326 @@
+{
+  "nyilatkozattevo_nev": "Dr. Fónagy János",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Dubicsány",
+        "terulet_m2": 1145,
+        "muvelesi_ag": "Művelés alól kivett legelő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1981",
+        "tipus": "egyéb",
+        "alapterulet_m2": 20
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [
+        {
+          "megnevezes": "Neobarokk szalongarnitura",
+          "szerzes_jogcime": "öröklés",
+          "szerzes_datuma": "1980",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Írószekrény",
+          "szerzes_jogcime": "öröklés",
+          "szerzes_datuma": "1980",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Festmények",
+          "szerzes_jogcime": "egyéb",
+          "szerzes_datuma": "1965",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Könyvtár",
+          "szerzes_jogcime": "egyéb",
+          "szerzes_datuma": "1960",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Bélyeg",
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "1950",
+          "ertek_huf": null
+        }
+      ],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Dollár Ing.alap",
+          "nevertek": 10181,
+          "penznem": "USD"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Dollár Rövid Kötvény",
+          "nevertek": 10470,
+          "penznem": "USD"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Euró Rövid Kötvény",
+          "nevertek": 10345,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Euró Ing.piac Alap",
+          "nevertek": 67936,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Ing.bef.alap \"A,,",
+          "nevertek": 6063858,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Multi-Asset Konzer.",
+          "nevertek": 10435,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Prémium Klasszik.",
+          "nevertek": 3569088,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Prémium Kiegyensúly.",
+          "nevertek": 18318614,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Prémium Szárm.",
+          "nevertek": 2599686,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Prémium Szárm.",
+          "nevertek": 10282,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Prémium Trend Klasszik.",
+          "nevertek": 12360850,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Spectra Szárm.",
+          "nevertek": 11807190,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Strat.euró Kötv.",
+          "nevertek": 10522,
+          "penznem": "EUR"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Supra Absz.hozamú",
+          "nevertek": 1774526,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Tőkegarantált",
+          "nevertek": 7593189,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "Prémium Magyar Áll.pap.",
+          "nevertek": 3384743,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP Értékpapír Összesen Ft-ban.",
+          "nevertek": 120799931,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "CIB. MÁP Plusz",
+          "nevertek": 4205000,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Államtitkár",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Közlekedéstudományi Egyesület - Elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Carl Lutz Alapítvány Kuratóriumi tag.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Régió Kft - Ózd Tulajdonos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő\nOrszággyűlés Hivatala",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Államtitkár Nemzetgazdasági Minisztérium",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Régió Kft, Ózd Tulajdonos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Közlekedéstudományi Egyesület - Elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Carl Lutz Alapítvány Kuratóriumi tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

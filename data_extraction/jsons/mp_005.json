@@ -1,0 +1,422 @@
+{
+  "nyilatkozattevo_nev": "dr. Apáti István",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 499547.0,
+        "muvelesi_ag": "legelő, erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.06,
+        "szerzes_datuma": "2001-12-10",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 499547.0,
+        "muvelesi_ag": "legelő, erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.03,
+        "szerzes_datuma": "2021-04-29",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 499547.0,
+        "muvelesi_ag": "legelő, erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "2021-08-25",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 499547.0,
+        "muvelesi_ag": "legelő, erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.08,
+        "szerzes_datuma": "2022-04-04",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 67820.0,
+        "muvelesi_ag": "gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "részarányátadás",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2000-07-20",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 10625.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2001-12-19",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 11786.0,
+        "muvelesi_ag": "gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "csere",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "1999-03-04",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szamosangyalos",
+        "terulet_m2": 3383.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.36,
+        "szerzes_datuma": "1988-04-05",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szamosangyalos",
+        "terulet_m2": 3975.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.36,
+        "szerzes_datuma": "1988-04-05",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Őr",
+        "terulet_m2": 800.0,
+        "muvelesi_ag": "kert",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1997-08-01",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 73892.0,
+        "muvelesi_ag": "gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "1996-02-28",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 10390.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2003-10-14",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 61757.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "1998-03-18",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 70446.0,
+        "muvelesi_ag": "gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "részarányátadás",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": null,
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Komlódtótfalu",
+        "terulet_m2": 10378.0,
+        "muvelesi_ag": "gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2000-12-18",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Komlódtótfalu",
+        "terulet_m2": 14370.0,
+        "muvelesi_ag": "szántó, erdő",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "1999-01-04",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Komlódtótfalu",
+        "terulet_m2": 72390.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.02,
+        "szerzes_datuma": "1999-01-04",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szamosangyalos",
+        "terulet_m2": 1015.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.36,
+        "szerzes_datuma": "1988-04-05",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csengerújfalu",
+        "terulet_m2": 129465.0,
+        "muvelesi_ag": "erdő, járási mintatér",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.05,
+        "szerzes_datuma": "2018-12-14",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csengerújfalu",
+        "terulet_m2": 129465.0,
+        "muvelesi_ag": "erdő, járási mintatér",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.12,
+        "szerzes_datuma": "2019-01-03",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csengerújfalu",
+        "terulet_m2": 129465.0,
+        "muvelesi_ag": "erdő, járási mintatér",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.15,
+        "szerzes_datuma": "2019-06-13",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csengerújfalu",
+        "terulet_m2": 129465.0,
+        "muvelesi_ag": "erdő, járási mintatér",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "2020-07-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csengerújfalu",
+        "terulet_m2": 129465.0,
+        "muvelesi_ag": "erdő, járási mintatér",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.1,
+        "szerzes_datuma": "2021-04-13",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 117841.0,
+        "muvelesi_ag": "erdő, községi mintatér",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2020-02-20",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 2202.0,
+        "muvelesi_ag": "beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": null,
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2021-08-23",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 2940.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": null,
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2021-08-23",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Solymár",
+        "terulet_m2": 1380.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.09,
+        "szerzes_datuma": "2022-09-27",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csenger",
+        "terulet_m2": 499547.0,
+        "muvelesi_ag": "legelő, erdő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.03,
+        "szerzes_datuma": "2024-01-24",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Honda",
+          "modell": "Accord Type-S 2.4 i",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "adásvétel",
+          "szerzes_datuma": "2014-04-28",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": 12164448.0
+      },
+      "keszpenz": {
+        "osszeg_huf": 10000000.0
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 1327129.0,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 24500000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": [
+      "Gyermekem ingatlan, vagy ingó vagyonnal, illetve jövedelemmel nem rendelkezik. Kizárólag magyar állampolgár vagyok."
+    ]
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Szatmár Aranya Mezőgazdasági Termelő és Tanácsadó Kft (20%-os arányban tulajdonos)",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Mi Hazánk Alapítvány - kuratóriumi tagság",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

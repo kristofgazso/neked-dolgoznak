@@ -1,0 +1,192 @@
+{
+  "nyilatkozattevo_nev": "Szijjártó Péter",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Győr",
+        "terulet_m2": 371.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.6,
+        "szerzes_datuma": "1994-11-15",
+        "tipus": "lakóház",
+        "alapterulet_m2": 126.0
+      },
+      {
+        "telepules": "Balatonederics",
+        "terulet_m2": 2472.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.8,
+        "szerzes_datuma": "2009-08-01",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Balatonederics",
+        "terulet_m2": 5436.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2009-08-01",
+        "tipus": "üdülő",
+        "alapterulet_m2": 91.0
+      },
+      {
+        "telepules": "Balatonederics",
+        "terulet_m2": 2271.0,
+        "muvelesi_ag": "GYEP (RÉT), SZŐLŐ",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2010-04-21",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Dunakeszi",
+        "terulet_m2": 1586.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2014-08-09",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "befektetési jegy",
+          "kibocsato": null,
+          "nevertek": 44470302.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "befektetési jegy",
+          "kibocsato": null,
+          "nevertek": 5023849.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "értékpapír",
+          "kibocsato": null,
+          "nevertek": 508317.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "kötvény",
+          "kibocsato": null,
+          "nevertek": 14626500.0,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "befektetési jegy",
+          "kibocsato": null,
+          "nevertek": 15396642.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 6628488.0,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": "saját szüleimmel",
+          "osszeg_huf": 30000000.0,
+          "penznem": "HUF"
+        }
+      ]
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Külügazdasági És KüLügyminiszter Külgazdasági És KüLügyminisztérium",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Külügazdasági És KüLügyminiszter Külgazdasági És KüLügyminisztérium",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő Országgyűlés hivatala",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

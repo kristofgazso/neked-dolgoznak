@@ -1,0 +1,238 @@
+{
+  "nyilatkozattevo_nev": "Kovács Sándor",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Géberjén",
+        "terulet_m2": 3346,
+        "muvelesi_ag": "belterület.",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 1,
+        "szerzes_datuma": null,
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Géberjén",
+        "terulet_m2": 2629,
+        "muvelesi_ag": "telek",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.58,
+        "szerzes_datuma": "2016",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Géberjén",
+        "terulet_m2": 978,
+        "muvelesi_ag": "telek",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.6,
+        "szerzes_datuma": "2016",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Géberjén",
+        "terulet_m2": 1300,
+        "muvelesi_ag": "telek+épület.",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1,
+        "szerzes_datuma": "2016",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csengersima (Nagygéc)",
+        "terulet_m2": 2044,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2013",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Géberjén",
+        "terulet_m2": 1904,
+        "muvelesi_ag": "agyaggödör",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "részarány kiadás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": null,
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Győrtelek",
+        "terulet_m2": 3300,
+        "muvelesi_ag": "szántó, erdő oszt.köz.tul.",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "részarány kimérés.",
+        "tulajdoni_hanyad": 1,
+        "szerzes_datuma": null,
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Fülpösdaróc",
+        "terulet_m2": null,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": null,
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": null,
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Toyota",
+          "modell": "Proace",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "lízing",
+          "szerzes_datuma": "2024",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "UAZ",
+          "modell": null,
+          "gyartasi_ev": 1992,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2021",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "motorkerékpár",
+          "marka": "MZ",
+          "modell": "125",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2015",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": 10000000
+      },
+      "keszpenz": {
+        "osszeg_huf": 12500000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 5000000,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Felső Tisza Vidéki Vízgazdálkodói Társulási Tanács elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Jót s Jól Egyesület tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "őstermelő / családi gazdasg",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Östermelő, Családi gazdaság",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

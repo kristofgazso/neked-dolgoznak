@@ -1,0 +1,124 @@
+{
+  "nyilatkozattevo_nev": "Kunhalmi Ágnes",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Budapest XIII. ker.",
+        "terulet_m2": 57,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2023",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Kiskunmajsa",
+        "terulet_m2": 6271,
+        "muvelesi_ag": "Külterületi Gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2023",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Kiskunmajsa",
+        "terulet_m2": 6273,
+        "muvelesi_ag": "Külterületi Gyümölcsös",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2023",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Kiskunmajsa",
+        "terulet_m2": 4474,
+        "muvelesi_ag": "Külterületi Szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2023",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Kiskunhalas",
+        "terulet_m2": 817,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.12,
+        "szerzes_datuma": "2023",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Opel",
+          "modell": "Astra",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2018",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP OPTIMA TŐKEGARANTÁLT BEF. JEGY",
+          "nevertek": 573104,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "egyéb",
+          "kibocsato": "OTP TŐKEGARANTÁLT RÖV. KÖT. BEF. JEGY.",
+          "nevertek": 121073,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 15081375,
+        "devizaban_forinterteken_huf": 3404379
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

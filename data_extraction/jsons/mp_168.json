@@ -1,0 +1,144 @@
+{
+  "nyilatkozattevo_nev": "dr. Szeberényi Gyula Tamás",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Kecskemét",
+        "terulet_m2": null,
+        "muvelesi_ag": "kivett",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2023-09-17",
+        "tipus": "lakóház",
+        "alapterulet_m2": 65
+      },
+      {
+        "telepules": "Kecskemét",
+        "terulet_m2": null,
+        "muvelesi_ag": "kivett",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2014-12-19",
+        "tipus": "egyéb",
+        "alapterulet_m2": 13
+      },
+      {
+        "telepules": "Kecskemét",
+        "terulet_m2": 597,
+        "muvelesi_ag": "kivett",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.18,
+        "szerzes_datuma": "2016-03-01",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Pécs",
+        "terulet_m2": null,
+        "muvelesi_ag": "kivett",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2019-06-28",
+        "tipus": "egyéb",
+        "alapterulet_m2": 53
+      },
+      {
+        "telepules": "Kecskemét",
+        "terulet_m2": null,
+        "muvelesi_ag": "kivett",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.7,
+        "szerzes_datuma": "2017-07-07",
+        "tipus": "lakóház",
+        "alapterulet_m2": 90
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": "GP20 MOZAIK Biztosítás",
+          "nevertek": 2000000,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": "GRAWE Életbiztosítás",
+          "nevertek": 5000000,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 15000000,
+          "penznem": null
+        },
+        {
+          "hitelező": null,
+          "osszeg_huf": 71000000,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": [
+      "Holiday Club Füred üdülőhasználati jog 2025-ig 1 hét 4 személynek",
+      "Önkéntes nyugdíjpénztári tagság",
+      "Önkéntes egészségpénztári tagság",
+      "SCH Szállodalánc és Üdülőszövetkezet üdülőhasználati jog 1 hét 2+1 személynek"
+    ]
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "alpolgármester",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

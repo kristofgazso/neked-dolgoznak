@@ -1,0 +1,112 @@
+{
+  "nyilatkozattevo_nev": "Demeter Zoltán",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Bánhorváti",
+        "terulet_m2": 3647.0,
+        "muvelesi_ag": "MELLÉKÉPÜLET (CSŰR) 125 m2, KIS HÁZ (ROMOS) 58 m2",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2013",
+        "tipus": "lakóház",
+        "alapterulet_m2": 99.0
+      },
+      {
+        "telepules": "Trizs",
+        "terulet_m2": 1263.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2023",
+        "tipus": "lakóház",
+        "alapterulet_m2": 120.0
+      },
+      {
+        "telepules": "Trizs",
+        "terulet_m2": 2194.0,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2023",
+        "tipus": "lakóház",
+        "alapterulet_m2": 95.0
+      },
+      {
+        "telepules": "Trizs",
+        "terulet_m2": 75000.0,
+        "muvelesi_ag": "LEGELŐ",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2023",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Toyota",
+          "modell": "RAV 4.",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2023",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "részjegy",
+          "kibocsato": "TAKARÉK RÉSZJEGY",
+          "nevertek": 1750000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 4025000.0,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": "HITEL",
+          "osszeg_huf": 1700000.0,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

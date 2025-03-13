@@ -1,0 +1,293 @@
+{
+  "nyilatkozattevo_nev": "Dr. Pajtók Gábor",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Eger",
+        "terulet_m2": 90,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1997",
+        "tipus": "lakóház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Eger",
+        "terulet_m2": 64,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2006",
+        "tipus": "üzlet",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Eger",
+        "terulet_m2": 565,
+        "muvelesi_ag": "lakótelek",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2020",
+        "tipus": "lakótelek",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Siófok",
+        "terulet_m2": 701,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2017",
+        "tipus": "lakóház - üdülő",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szihalom",
+        "terulet_m2": 4783,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1998",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Mezőkövesd",
+        "terulet_m2": 24119,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.15,
+        "szerzes_datuma": "2009",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szihalom",
+        "terulet_m2": 16492,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1995",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Füzesabony",
+        "terulet_m2": 11772,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1996",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szihalom",
+        "terulet_m2": 17320,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1996",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szihalom",
+        "terulet_m2": 27957,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1995",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szihalom",
+        "terulet_m2": 41379,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1996",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Szihalom",
+        "terulet_m2": 16680,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1996",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": "K&H Befektetési jegy",
+          "nevertek": 17500000,
+          "penznem": "HUF"
+        },
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": "NN nyugdíjbiztosítás",
+          "nevertek": 8500000,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": null,
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": 7500000,
+        "forintban_huf": 7500000,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 25000000,
+          "penznem": "HUF"
+        }
+      ]
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Kormánymegbízott",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Dr. Pajtók Ügyvédi Iroda",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Füzesabonyi Agrár Zrt.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Egri Fertálymesteri Testület",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Dr. Pajtók Ügyvédi Iroda tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Egri Fertálymesteri Testület /tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": "Füzesabonyi Agrár Zrt. /részvényes",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

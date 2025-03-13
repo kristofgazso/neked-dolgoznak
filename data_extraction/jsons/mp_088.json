@@ -1,0 +1,232 @@
+{
+  "nyilatkozattevo_nev": "Dr. Kontrát Károly",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Pápa",
+        "terulet_m2": 17,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1995-02-07",
+        "tipus": "garázs",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyárád",
+        "terulet_m2": 41764,
+        "muvelesi_ag": "Szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.74,
+        "szerzes_datuma": "1991-09-17",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Döbrönte",
+        "terulet_m2": 4157,
+        "muvelesi_ag": "Gyep, legelő",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2004-07-30",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Ganna",
+        "terulet_m2": 3286,
+        "muvelesi_ag": "Gyep",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1998-02-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Ganna",
+        "terulet_m2": 2823,
+        "muvelesi_ag": "Gyep",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1998-02-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Ganna",
+        "terulet_m2": 31645,
+        "muvelesi_ag": "Erdő ÉS Gyep",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1998-08-26",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyárád",
+        "terulet_m2": 2606,
+        "muvelesi_ag": "Szántó",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2013-02-10",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Tihany",
+        "terulet_m2": 703,
+        "muvelesi_ag": "Kivett Hétvégi Ház, Udvar",
+        "szantofold": false,
+        "jogi_jelleg": "HÉTVÉGI HÁZ",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2017-01-30",
+        "tipus": "üdülő",
+        "alapterulet_m2": 135
+      },
+      {
+        "telepules": "Tihany",
+        "terulet_m2": 17,
+        "muvelesi_ag": "Közforgalom Elől Elnem Zárt Magánút",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2017-01-30",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Renault",
+          "modell": "Arkana",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2022-09-26",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "egyéb",
+          "kibocsato": null,
+          "nevertek": 33205403,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 15631497,
+        "devizaban_forinterteken_huf": 984082
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési Képviselő, HRB Alelnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Magyar Rendészeti Szövetség Elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Pápai Egyesített Labdarugó Club Tb. Elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Nemzetközi Gyermekmentő Szolgálat Me Tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "BM Parlamenti Államtitkár, Miniszter-Helyettes",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": "Could not identify which financial / loan services are used."
+}

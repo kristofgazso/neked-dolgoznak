@@ -1,0 +1,205 @@
+{
+  "nyilatkozattevo_nev": "Dr Fazekas Sándor",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 600.0,
+        "muvelesi_ag": "telek",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1980",
+        "tipus": "lakóház",
+        "alapterulet_m2": 105.87
+      },
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 3252.0,
+        "muvelesi_ag": "zártkert kunyhó 12 m2",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2007-01-02",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 31826.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1995-04-25",
+        "tipus": "szántó",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 69100.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1995-06-28",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 5268.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.33,
+        "szerzes_datuma": "2001-10-24",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Budapest IX. Ferenc krt 3",
+        "terulet_m2": 47.0,
+        "muvelesi_ag": "társasház",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.22,
+        "szerzes_datuma": "2004-06-22",
+        "tipus": "társasház",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 12700.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": null,
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Karcag",
+        "terulet_m2": 12770.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": null,
+        "tipus": "szántó",
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Suzuki",
+          "modell": "Vitara",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2018-06-22",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Toyota",
+          "modell": "Yaris Cross",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2024-05-08",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [
+        {
+          "megnevezes": "Könyvtár",
+          "szerzes_jogcime": null,
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        }
+      ],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": 24000000
+      },
+      "keszpenz": {
+        "osszeg_huf": 2500000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Marek József Alapítvány Kuratóriumi Tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Marek József Alapítvány Kuratóriumi Tag",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Tulajdonos 25%",
+        "szervezet": "Kunföld Kft",
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": [],
+    "data_not_extracted_explanation": null
+  }
+}

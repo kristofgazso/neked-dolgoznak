@@ -1,0 +1,278 @@
+{
+  "nyilatkozattevo_nev": "Bencze János",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 808.0,
+        "muvelesi_ag": "lakóház, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2000-02-04",
+        "tipus": "lakóház",
+        "alapterulet_m2": 95.0
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 883.0,
+        "muvelesi_ag": "lakóház, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2019-07-19",
+        "tipus": "lakóház",
+        "alapterulet_m2": 90.0
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 5583.0,
+        "muvelesi_ag": "gyep",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2004-09-08",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 3003.0,
+        "muvelesi_ag": "lakótelek",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vétel",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2017-03-21",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 1005.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2024-10-01",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 4991.0,
+        "muvelesi_ag": "legelő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2024-10-01",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 1108.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2024-07-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 1806.0,
+        "muvelesi_ag": "legelő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2024-07-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 3731.0,
+        "muvelesi_ag": "legelő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2024-07-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Simontornya",
+        "terulet_m2": 3404.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2024-07-09",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Ford",
+          "modell": "Transit",
+          "gyartasi_ev": 2008,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2018-05-00",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "BMW",
+          "modell": "320D",
+          "gyartasi_ev": 2006,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2024-09-00",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Opel",
+          "modell": "Campo",
+          "gyartasi_ev": 1994,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2021-00-00",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Opel",
+          "modell": "Campo",
+          "gyartasi_ev": 1998,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2021-00-00",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "motorkerékpár",
+          "marka": "Honda",
+          "modell": "CB900 Boldor",
+          "gyartasi_ev": 1982,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2015-00-00",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "motorkerékpár",
+          "marka": "Junak",
+          "modell": "M10",
+          "gyartasi_ev": 1965,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "1997-00-00",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "motorkerékpár",
+          "marka": "Danuvia",
+          "modell": "125",
+          "gyartasi_ev": 1993,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "tipus": "motorkerékpár",
+          "marka": "Moto Guzzi",
+          "modell": "V65",
+          "gyartasi_ev": 1985,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2023-00-00",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": {
+        "osszeg_huf": 4000000.0
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": -3200000.0,
+          "penznem": "HUF"
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "megyei közgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "méhegészségügyi felelős",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": "There were many places with blank responses in the document. This is because the form is designed for various members of a family to submit parts of it, not necessarily because the person has no information. The negative amount is given with a - at the start, so it is extracted. There are many empty values in the income sections, but the model expects either jovedelem_huf, or a series of boolean checks to determine the bracket, therefore, it extracted appropriately. All dates in the form are very vague, often being just the year itself, and occasionally just the month, or sometimes both."
+}

@@ -1,0 +1,221 @@
+{
+  "nyilatkozattevo_nev": "Dr. Nyitrai Zsolt Péter",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Andornaktálya",
+        "terulet_m2": 250,
+        "muvelesi_ag": "Belterületi, kivett, beépítetlen terület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2013-06-22",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Andornaktálya",
+        "terulet_m2": 122,
+        "muvelesi_ag": "külterületi ingatlan",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2013-06-22",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Eger",
+        "terulet_m2": null,
+        "muvelesi_ag": null,
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.4,
+        "szerzes_datuma": "2011",
+        "tipus": "lakóház",
+        "alapterulet_m2": 68
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "KIA",
+          "modell": "CEÉ'D",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2012",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [
+        {
+          "megnevezes": "Bethlen István miniszterelnök levelei",
+          "tipus": "egyéb",
+          "darabszam": 2,
+          "szerzes_jogcime": null,
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Andrássy Gyula levelei",
+          "tipus": "egyéb",
+          "darabszam": 3,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2009",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Széll Kálmán levelei",
+          "tipus": "egyéb",
+          "darabszam": 2,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2009",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Rákosi Béla áltrábornagy, a Magyar Királyi Honvéd Légiórő Parancsnokságának dísztőre",
+          "tipus": "egyéb",
+          "darabszam": 1,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Antik órák",
+          "tipus": "egyéb",
+          "darabszam": 5,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2008",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Rejtő Jenő műveinek első kiadása",
+          "tipus": "egyéb",
+          "darabszam": 15,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2011",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Breitling Kronográf (1942)",
+          "tipus": "egyéb",
+          "darabszam": 1,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2006",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "\"Angol edzések a labdarúgásban\" c. könyv korábbi tulajdonosának Seres Gusztávnak széljegyzeteive",
+          "tipus": "egyéb",
+          "darabszam": 1,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2013",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Magyar Édemrend Szent Koronával ékesített nagy keresztének csillaga",
+          "tipus": "egyéb",
+          "darabszam": 1,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        }
+      ],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "kötvény",
+          "kibocsato": "Államkötvény",
+          "nevertek": 6000000,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": 20000000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 35000000,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "miniszterelnöki biztos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "miniszterelnöki biztos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": true,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

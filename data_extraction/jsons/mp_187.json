@@ -1,0 +1,179 @@
+{
+  "nyilatkozattevo_nev": "Tessely Zoltán",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Csabdi",
+        "terulet_m2": 3797,
+        "muvelesi_ag": "KIVETT BEÉPÍTETLEN",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "csere",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2002",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csabdi",
+        "terulet_m2": 1026,
+        "muvelesi_ag": "KIVETT BEÉPÍTETLEN",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "csere",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2003",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Füzér",
+        "terulet_m2": 2010,
+        "muvelesi_ag": "KIVETT ÉS VENDÉGHÁZ",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adásvétel",
+        "tulajdoni_hanyad": 0.22,
+        "szerzes_datuma": "2022",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Martonvásár",
+        "terulet_m2": 1390,
+        "muvelesi_ag": "KIVETT LAKÓÉPÜLET, UDVAR, GAZDASÁGI ÉPÜLET",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2023",
+        "tipus": "lakóház",
+        "alapterulet_m2": 169
+      },
+      {
+        "telepules": "Kajászó",
+        "terulet_m2": 13300.0,
+        "muvelesi_ag": "SZÁNTÓ KÜLTERÜLETEN",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2023",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Kajászó",
+        "terulet_m2": 17600.0,
+        "muvelesi_ag": "ERDŐ KÜLTERÜLETEN",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.04,
+        "szerzes_datuma": "2023",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Csabdi",
+        "terulet_m2": 5186,
+        "muvelesi_ag": "KIVETT BEÉPÍTETLEN",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "adás-vétel",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2023",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [],
+      "vedett_mualkotasok_gyujtemenyek": [
+        {
+          "megnevezes": "\"Imádkozó Szűz Mária\" mellszobor",
+          "tipus": null,
+          "darabszam": 1,
+          "szerzes_jogcime": "ajándék",
+          "szerzes_datuma": "2021",
+          "ertek_huf": null
+        }
+      ],
+      "egyeb_ingok": [
+        {
+          "megnevezes": "Antik bútorok (tálalók, étkező asztal, 6 db szék, biedermeier szekrény, álló tükör)",
+          "szerzes_jogcime": "öröklés",
+          "szerzes_datuma": "2023",
+          "ertek_huf": null
+        }
+      ],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": "életbiztosítás",
+          "kibocsato": null,
+          "nevertek": 4000000,
+          "penznem": "HUF"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": null,
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 3218000,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": [
+        "6 M FT. Ingatlan tulajdonjog átruházás kötelmi igény, öröklés 2023."
+      ]
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 1545000,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "BTC egyesület elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": []
+  },
+  "data_not_extracted_explanation": null
+}

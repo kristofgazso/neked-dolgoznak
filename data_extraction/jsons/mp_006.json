@@ -1,0 +1,161 @@
+{
+  "nyilatkozattevo_nev": "Ander Balázs",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Zselickisfalud",
+        "terulet_m2": 4350,
+        "muvelesi_ag": "zártkerti művelés alól kivett terület és gazdasági épület",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 1.0,
+        "szerzes_datuma": "2019-11-20",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": 32
+      },
+      {
+        "telepules": "Barcs",
+        "terulet_m2": 1399,
+        "muvelesi_ag": "kivett lakóház, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2017-09-04",
+        "tipus": "lakóház",
+        "alapterulet_m2": 134
+      },
+      {
+        "telepules": "Barcs",
+        "terulet_m2": 88,
+        "muvelesi_ag": "társasházi lakás",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.25,
+        "szerzes_datuma": "2024-02-08",
+        "tipus": "lakóház",
+        "alapterulet_m2": 88
+      },
+      {
+        "telepules": "Barcs",
+        "terulet_m2": 16,
+        "muvelesi_ag": "garázs",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "ajándék",
+        "tulajdoni_hanyad": 0.25,
+        "szerzes_datuma": "2024-02-08",
+        "tipus": "garázs",
+        "alapterulet_m2": 16
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Ssangyong",
+          "modell": "Rexton 2.7. Xdi",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2022-09-17",
+          "ertek_huf": 1800000
+        },
+        {
+          "tipus": "motorkerékpár",
+          "marka": "Suzuki",
+          "modell": "VL 125",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": null,
+          "szerzes_datuma": "2022-11-02",
+          "ertek_huf": 670000
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": null,
+      "keszpenz": {
+        "osszeg_huf": 800000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 8500000,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Oktató",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Jólétet Mindenkinek Alapítvány - Kuratóriumi elnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Jobbik Országos Elnöksége - alelnök",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": [],
+    "data_not_extracted_explanation": null
+  },
+  "data_not_extracted_explanation": null
+}

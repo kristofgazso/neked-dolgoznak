@@ -1,0 +1,349 @@
+{
+  "nyilatkozattevo_nev": "Tasó László",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 1787.0,
+        "muvelesi_ag": "lakóház, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "családi ház",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1987-04-28",
+        "tipus": "lakóház",
+        "alapterulet_m2": 274.3
+      },
+      {
+        "telepules": "Hajdúszoboszló",
+        "terulet_m2": 710.0,
+        "muvelesi_ag": "lakóház, udvar",
+        "szantofold": false,
+        "jogi_jelleg": "társasház",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.12,
+        "szerzes_datuma": "2003-05-26",
+        "tipus": "lakóház",
+        "alapterulet_m2": 206.1
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 297466.0,
+        "muvelesi_ag": "erdő - szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.28,
+        "szerzes_datuma": "2014-04-30",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 280515.0,
+        "muvelesi_ag": "közösségi mintatér, erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.22,
+        "szerzes_datuma": "2009-05-28",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 11141.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "öröklés",
+        "tulajdoni_hanyad": 0.22,
+        "szerzes_datuma": "1997-05-07",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 17930.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2011-09-13",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 18291.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2015-04-28",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 13030.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2015-04-28",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 4316.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2019-07-10",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 124300.0,
+        "muvelesi_ag": "közjóléti erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1998-06-16",
+        "tipus": "egyéb",
+        "alapterulet_m2": 600.0
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 24422.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2019-02-12",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 111005.0,
+        "muvelesi_ag": "erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "1998-06-16",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 53326.0,
+        "muvelesi_ag": "szántó",
+        "szantofold": true,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2020-03-19",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 4419.0,
+        "muvelesi_ag": "zártkert",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2022-09-07",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 3046.0,
+        "muvelesi_ag": "zártkert",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2021-09-16",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Nyíradony",
+        "terulet_m2": 73364.0,
+        "muvelesi_ag": "park - erdő",
+        "szantofold": false,
+        "jogi_jelleg": null,
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2020-02-19",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Ford",
+          "modell": "Explorer",
+          "gyartasi_ev": 2016,
+          "szerzes_jogcime": "vásárlás",
+          "szerzes_datuma": "2021-03-02",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": null
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 7575799.0,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 5670545.0,
+          "penznem": null
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 86000000.0,
+          "penznem": null
+        }
+      ]
+    },
+    "egyeb_kozlendok": [
+      "A 73.364 négyzetméter, azaz 7 ha 3.364 négyzetméter területű park-erdő területből 7.041 négyzetméter Nyíradony Város Önkormányzatának használatában van. A Tudományos és Technológiai Park gázellátásának nyomvonala biztosításához, valamint erdei futópálya megvalósítása érdekében került átadásra 2020-ban. A tulajdonviszonyok és a használat rendezése a mai napig sem történt meg. A gázhálózat kiépítése az átadott területen megtörtént, a védőtávolságon kívül eső részben a futópálya 2023-ban kivitelezésre került. A használatbavétele egyben az elhasználása megtörtént és folyamatos, de a terület rendezése a mai napig nem történt meg."
+    ]
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Nyíradonyi Széchényi Zsigmond Vadásztársaság Elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "MLSZ Hajdú-Bihar Vármegyei Társadalmi Elnökség Elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Európa-Kapu ETT Elnöke",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Őstermelő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": true,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "tulajdonos 40 %-ban",
+        "szervezet": "Euro-Kom '99 Kft.",
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": [],
+    "gazdasagi_tarsasag_neve": null,
+    "tagsag_tisztseg": null,
+    "jovedelem": {
+      "dijazas_nelkuli": false,
+      "jovedelmi_kategoria_1": false,
+      "jovedelmi_kategoria_2": false,
+      "jovedelmi_kategoria_3": false,
+      "jovedelmi_kategoria_4": false,
+      "jovedelmi_kategoria_5": false,
+      "jovedelem_huf": null
+    }
+  },
+  "data_not_extracted_explanation": null
+}

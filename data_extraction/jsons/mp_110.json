@@ -1,0 +1,855 @@
+{
+  "nyilatkozattevo_nev": "Dr. Lázár János",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 779,
+          "muvelesi_ag": "Lakóház",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 0.5,
+          "szerzes_datuma": "2001",
+          "tipus": "lakóház",
+          "alapterulet_m2": 260
+      },
+      {
+          "telepules": "Budapest XIII. kerület",
+          "terulet_m2": 96,
+          "muvelesi_ag": null,
+          "szantofold": false,
+          "jogi_jelleg": "társasház",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 0.5,
+          "szerzes_datuma": "2018",
+          "tipus": "lakóház",
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Mártély",
+          "terulet_m2": 26837,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "1998",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Mindszent",
+          "terulet_m2": 51188,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "1996",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Mindszent",
+          "terulet_m2": 45251,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "1994",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 85173,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "ajándék",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2002",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 10234,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2004",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 6000,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2005",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 51183,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2006",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 53402,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2009",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 16754,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2009",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 27700,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2009",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 56304,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2009",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 38898,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": null,
+          "szerzes_datuma": "2013-2014",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 31415,
+          "muvelesi_ag": "Erdő",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": null,
+          "szerzes_datuma": "2013-2014",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 4802,
+          "muvelesi_ag": "Erdő",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": null,
+          "szerzes_datuma": "2013-2014",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 5164,
+          "muvelesi_ag": "Legelő",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": null,
+          "szerzes_datuma": "2013-2014",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 7268,
+          "muvelesi_ag": "Töltés",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": null,
+          "szerzes_datuma": "2013-2014",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 2305,
+          "muvelesi_ag": "Kivett mocsár",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": null,
+          "szerzes_datuma": "2013-2014",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 43200,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": null,
+          "szerzes_datuma": "2013-2014",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 60070,
+          "muvelesi_ag": "Erdő",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2016",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 164528,
+          "muvelesi_ag": "szántó, erdő, legelő",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2016",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 17545,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2016",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 226,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2016",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 138730,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2016",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Mád",
+          "terulet_m2": 19884,
+          "muvelesi_ag": "szőlő",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2017",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 80067,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2017",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 26639,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2019",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 23531,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2019",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 27959,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2019",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 70241,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2019",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Mád",
+          "terulet_m2": 19285,
+          "muvelesi_ag": "szőlő",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2019",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Földeák",
+          "terulet_m2": 160015,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2020",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 229009,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2021",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 43775,
+          "muvelesi_ag": null,
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 0.5,
+          "szerzes_datuma": "2021",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 78129,
+          "muvelesi_ag": null,
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2021",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Mád",
+          "terulet_m2": 3208,
+          "muvelesi_ag": "szőlő, legelő",
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2022",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Földeák",
+          "terulet_m2": 60194,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2022",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 31369,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vásárlás",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2022",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 88995,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2023",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 109426,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2023",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 38459,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2023",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 3385,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2023",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 30930,
+          "muvelesi_ag": "szántó",
+          "szantofold": true,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "vétel",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2024",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Hódmezővásárhely",
+          "terulet_m2": 94864,
+          "muvelesi_ag": null,
+          "szantofold": false,
+          "jogi_jelleg": "egyéb",
+          "szerzes_jogcime": "egyéb",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2024",
+          "tipus": null,
+          "alapterulet_m2": null
+      },
+      {
+          "telepules": "Budapest, V. kerület",
+          "terulet_m2": 90,
+          "muvelesi_ag": null,
+          "szantofold": false,
+          "jogi_jelleg": "társasház",
+          "szerzes_jogcime": "vétel",
+          "tulajdoni_hanyad": 1,
+          "szerzes_datuma": "2024",
+          "tipus": "lakóház",
+          "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "MINI",
+          "modell": "757 COOPERS CABRIO",
+          "gyartasi_ev": "2019",
+          "szerzes_jogcime": "vétel",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Land Rover",
+          "modell": "Defender",
+          "gyartasi_ev": "2019",
+          "szerzes_jogcime": "vétel",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        },
+        {
+          "tipus": "személygépkocsi",
+          "marka": "Audi",
+          "modell": "A6 Allroad",
+          "gyartasi_ev": "2023",
+          "szerzes_jogcime": "vétel",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [
+        {
+          "megnevezes": "Kézirat",
+          "tipus": null,
+          "darabszam": 1,
+          "szerzes_jogcime": "adás-vétel",
+          "szerzes_datuma": "2010",
+          "ertek_huf": null
+        },
+        {
+          "megnevezes": "Karosszék (Gróf Széchenyi Zsigmond)",
+          "tipus": null,
+          "darabszam": 1,
+          "szerzes_jogcime": "adás-vétel",
+          "szerzes_datuma": "2011",
+          "ertek_huf": null
+        }
+      ],
+      "egyeb_ingok": [
+        {
+          "megnevezes": "Műtárgyak, festmények",
+          "szerzes_jogcime": "Folyamatos adás-vétel",
+          "szerzes_datuma": null,
+          "ertek_huf": null
+        }
+      ],
+      "ertekpapir_vagy_egyeb_befektetes": [
+        {
+          "tipus": null,
+          "kibocsato": null,
+          "nevertek": 200000000,
+          "penznem": "Huf"
+        }
+      ],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": null
+      },
+      "keszpenz": {
+        "osszeg_huf": 30000000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": 60000000,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": [
+        null
+      ]
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 160000000,
+          "penznem": "Huf"
+        }
+      ],
+      "maganszemelyekkel_szembeni_tartozasok": [
+        {
+          "hitelező": null,
+          "osszeg_huf": 60000000,
+          "penznem": "Huf"
+        }
+      ]
+    },
+    "egyeb_kozlendok": [
+      null
+    ]
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszter",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Kuratóriumi elnök (JNFA)",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Kuratóriumi tag (Kék Bolygó Alapítvány)",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Elnök (MTSZ)",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszterelnöki biztos",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Földbérleti díj, Földbérleti díjelőleg, ingatlan bérbeadás, Földalapú támogatás, őstermelő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Miniszter",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Országgyűlési képviselő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Kuratóriumi elnök (JNFA)",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Földbérleti díj, Földbérleti díjelőleg, ingatlan bérbeadás, földalapú támogatás, őstermelő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": true,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "foglalkozas_megbizas_tisztseg": "Osztalék",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": true,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": [
+      {
+        "tagsag_tisztseg": "Tulajdonos",
+        "gazdasagi_tarsasag_neve": "ERD Conditor SRL",
+        "tulajdoni_hanyad": 1.0,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      },
+      {
+        "tagsag_tisztseg": null,
+        "gazdasagi_tarsasag_neve": "Grossweise Befektetési Zrt.",
+        "tulajdoni_hanyad": 0.41,
+        "jovedelem": {
+          "dijazas_nelkuli": true,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": false,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ]
+  },
+  "data_not_extracted_explanation": null
+}

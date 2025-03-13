@@ -1,0 +1,210 @@
+{
+  "nyilatkozattevo_nev": "Pócs János",
+  "vagyonyi_nyilatkozat": {
+    "ingatlanok": [
+      {
+        "telepules": "Jászapáti",
+        "terulet_m2": 4587.0,
+        "muvelesi_ag": "GAZDASÁGI ÉPÜLET; UDVAR; SZÁNTÓFÖLD",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1995",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": 605.0
+      },
+      {
+        "telepules": "Jászapáti",
+        "terulet_m2": 54721.0,
+        "muvelesi_ag": "GAZDASÁGI ÉPÜLET; SZÁNTÓFÖLD; GAZDASÁGI ÉPÜLET",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1998",
+        "tipus": "gazdasági épület",
+        "alapterulet_m2": 350.0
+      },
+      {
+        "telepules": "Jászapáti",
+        "terulet_m2": 28020.0,
+        "muvelesi_ag": "SZÁNTÓ; CSATORNA; TELEPHELY",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1999",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Jászivány",
+        "terulet_m2": 34852.0,
+        "muvelesi_ag": "SZÁNTÓFÖLD /LEGELŐBŐL SZÁNTÓVÁ MINŐSÍTVE/",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "1997",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Jászapáti",
+        "terulet_m2": 20588.0,
+        "muvelesi_ag": "SZÁNTÓ; CSATORNA",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2024",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Jászapáti",
+        "terulet_m2": 3611.0,
+        "muvelesi_ag": "SZÁNTÓ",
+        "szantofold": true,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "vásárlás",
+        "tulajdoni_hanyad": null,
+        "szerzes_datuma": "2024",
+        "tipus": null,
+        "alapterulet_m2": null
+      },
+      {
+        "telepules": "Jászapáti",
+        "terulet_m2": 396.0,
+        "muvelesi_ag": "LAKÓHÁZ; UDVAR; GAZDASÁGI ÉPÜLET",
+        "szantofold": false,
+        "jogi_jelleg": "egyéb",
+        "szerzes_jogcime": "egyéb",
+        "tulajdoni_hanyad": 0.5,
+        "szerzes_datuma": "2024",
+        "tipus": null,
+        "alapterulet_m2": null
+      }
+    ],
+    "nagy_erteku_ingok": {
+      "gepjarmuvek": [
+        {
+          "tipus": "személygépkocsi",
+          "marka": "KIA",
+          "modell": "SORENTO 200 CRDI KRYPTONITE",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": null,
+          "szerzes_datuma": "2022-04-19",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "tehergépjármű",
+          "marka": "Volkswagen",
+          "modell": "TRANSPORTER",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "egyéb",
+          "szerzes_datuma": "2010-03-02",
+          "ertek_huf": null
+        },
+        {
+          "tipus": "pótkocsi",
+          "marka": "IFA",
+          "modell": "PÓTKOCSI HL60-02 FIX",
+          "gyartasi_ev": null,
+          "szerzes_jogcime": "egyéb",
+          "szerzes_datuma": "1999-09-27",
+          "ertek_huf": null
+        }
+      ],
+      "vedett_mualkotasok_gyujtemenyek": [],
+      "egyeb_ingok": [],
+      "ertekpapir_vagy_egyeb_befektetes": [],
+      "takarekbetetben_elhelyezett_megtakaritas": {
+        "osszeg_huf": -17900000
+      },
+      "keszpenz": {
+        "osszeg_huf": 900000
+      },
+      "hitelintezeti_szamlakoveteles": {
+        "hitelintezeti_szamlakoveteles_huf": null,
+        "forintban_huf": null,
+        "devizaban_forinterteken_huf": null
+      },
+      "mas_vagyontargyak": []
+    },
+    "tartozasok": {
+      "koztartozas": null,
+      "hitelintezettel_szembeni_tartozasok": [],
+      "maganszemelyekkel_szembeni_tartozasok": []
+    },
+    "egyeb_kozlendok": []
+  },
+  "jovedelemnyilatkozat": {
+    "elozo_3_ev_foglalkozasai": [
+      {
+        "foglalkozas_megbizas_tisztseg": "Pócs János E. V. Családi Gazdaság Tagja - Östermelő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "aktualis_foglalkozasok": [
+      {
+        "foglalkozas_megbizas_tisztseg": "a; Családi Gazdaság Tagja - \nÖstermelő b; Pócs János E. V.",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "alkalmi_jovedelem_2m_felett": []
+  },
+  "gazdasagi_erdekeltsegi_nyilatkozat": {
+    "tagsag_vagy_tisztseg_gazdalkodo_szervezetben": [
+      {
+        "tagsag_tisztseg": "Pócs János E.V. Tulajdonos\nCsaládi Gazdaság\nTagja - Östermelő",
+        "szervezet": null,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ],
+    "befolyassal_biro_gazdasagi_erdekeltsegek": [
+      {
+        "tagsag_tisztseg": "Pócs János E.V. Tulajdonos\nCsaládi\nGazdaság Tagja\nÖstermelő",
+        "gazdasagi_tarsasag_neve": null,
+        "tulajdoni_hanyad": 0.33,
+        "jovedelem": {
+          "dijazas_nelkuli": false,
+          "jovedelmi_kategoria_1": false,
+          "jovedelmi_kategoria_2": true,
+          "jovedelmi_kategoria_3": false,
+          "jovedelmi_kategoria_4": false,
+          "jovedelmi_kategoria_5": false,
+          "jovedelem_huf": null
+        }
+      }
+    ]
+  },
+  "data_not_extracted_explanation": null
+}
