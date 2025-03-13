@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Link from 'next/link';
 import { 
   Table, 
   TableBody, 
@@ -412,7 +413,7 @@ export default function Home() {
                                               {/* Vehicle details */}
                                               {mp.vagyonyi_nyilatkozat.nagy_erteku_ingok.gepjarmuvek.map((jarmu, i: number) => (
                                                 <div key={`jarmu-${i}`} className="text-xs text-gray-500 ml-4 mt-1">
-                                                  {jarmu.marka} {jarmu.modell}{jarmu.gyartasi_ev ? ` (${jarmu.gyartasi_ev})` : ''}{jarmu.ertek_huf ? ` - ${formatCurrency(jarmu.ertek_huf)}` : ''}
+                                                  {jarmu.marka} {jarmu.modell || ''} {jarmu.gyartasi_ev ? ` (${jarmu.gyartasi_ev})` : ''} {jarmu.tipus ? `- ${jarmu.tipus}` : ''} {jarmu.ertek_huf ? ` - ${formatCurrency(jarmu.ertek_huf)}` : ''}
                                                 </div>
                                               ))}
                                             </div>
@@ -435,7 +436,7 @@ export default function Home() {
                                               {(mp.vagyonyi_nyilatkozat?.tartozasok?.hitelintezettel_szembeni_tartozasok || []).map((tartozas, idx) => (
                                                 <div key={`bank-debt-${idx}`} className="text-sm py-1.5 border-b last:border-0">
                                                   <div className="flex flex-col sm:flex-row sm:justify-between">
-                                                    <span className={`break-words text-sm ${!tartozas.hitelező ? 'text-red-600 dark:text-red-400 font-medium' : ''}`}>
+                                                    <span className={`break-words whitespace-normal hyphens-auto w-full text-sm ${!tartozas.hitelező ? 'text-red-600 dark:text-red-400 font-medium' : ''}`}>
                                                       {tartozas.hitelező || 'Ismeretlen hitelező'}
                                                     </span>
                                                     <span className="tabular-nums font-medium sm:ml-4 text-sm mt-1 sm:mt-0">{formatCurrency(tartozas.osszeg_huf)}</span>
@@ -453,10 +454,10 @@ export default function Home() {
                                               {(mp.vagyonyi_nyilatkozat?.tartozasok?.maganszemelyekkel_szembeni_tartozasok || []).map((tartozas, idx) => (
                                                 <div key={`private-debt-${idx}`} className="text-sm py-1 border-b last:border-0">
                                                   <div className="flex flex-col sm:flex-row sm:justify-between">
-                                                    <span className={`break-words ${!tartozas.hitelező ? 'text-red-600 dark:text-red-400 font-medium' : ''}`}>
+                                                    <span className={`break-words whitespace-normal hyphens-auto w-full text-sm ${!tartozas.hitelező ? 'text-red-600 dark:text-red-400 font-medium' : ''}`}>
                                                       {tartozas.hitelező || 'Ismeretlen hitelező'}
                                                     </span>
-                                                    <span className="tabular-nums font-medium sm:ml-4">{formatCurrency(tartozas.osszeg_huf)}</span>
+                                                    <span className="tabular-nums font-medium sm:ml-4 text-sm mt-1 sm:mt-0">{formatCurrency(tartozas.osszeg_huf)}</span>
                                                   </div>
                                                 </div>
                                               ))}
@@ -522,7 +523,7 @@ export default function Home() {
                                           {(mp.vagyonyi_nyilatkozat?.nagy_erteku_ingok?.gepjarmuvek || []).length > 0 ? (
                                             (mp.vagyonyi_nyilatkozat?.nagy_erteku_ingok?.gepjarmuvek || []).map((jarmu, idx) => (
                                               <div key={`vehicle-${idx}`} className="text-sm border-b last:border-0 py-2">
-                                                <div className="font-medium break-words">{jarmu.marka || '?'} {jarmu.modell || ''} {jarmu.gyartasi_ev ? `(${jarmu.gyartasi_ev})` : ''}</div>
+                                                <div className="font-medium break-words">{jarmu.marka || '?'} {jarmu.modell || ''} {jarmu.tipus ? `- ${jarmu.tipus}` : ''} {jarmu.gyartasi_ev ? ` (${jarmu.gyartasi_ev})` : ''}</div>
                                                 {jarmu.szerzes_jogcime && <div>Szerzés jogcíme: {jarmu.szerzes_jogcime}</div>}
                                                 {jarmu.szerzes_datuma && <div>Szerzés ideje: {jarmu.szerzes_datuma}</div>}
                                                 {jarmu.ertek_huf && <div>Értéke: {formatCurrency(jarmu.ertek_huf)}</div>}
@@ -576,6 +577,9 @@ export default function Home() {
           </p>
           <p className="text-slate-600 dark:text-slate-400 mt-2">
             Készítette: <a href="https://gaz.so" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">Gazsó Kristóf</a>
+          </p>
+          <p className="text-slate-600 dark:text-slate-400 mt-2">
+            Ha hibás adatokat találsz, módosítást javasolhatsz a <Link href="https://github.com/kristofgazso/neked-dolgoznak/edit/main/frontend/public/data/data.json" className="text-blue-600 dark:text-blue-400 hover:underline">következő oldalon</Link>.
           </p>
         </div>
       </footer>
