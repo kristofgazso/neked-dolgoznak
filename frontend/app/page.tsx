@@ -570,13 +570,13 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <p className="text-slate-600 dark:text-slate-400">Adatvizualizáció az országgyűlési képviselők vagyonnyilatkozatairól</p>
           <p className="text-slate-600 dark:text-slate-400 mt-2">
+            Készítette: <a href="https://gaz.so" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">Gazsó Kristóf</a>
+          </p>
+          <p className="text-slate-600 dark:text-slate-400 mt-2">
             Adatok forrása: <a href="https://www.parlament.hu/documents/d/guest/kepviselok_20250228" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">parlament.hu</a>
           </p>
           <p className="text-slate-600 dark:text-slate-400 mt-2">
             A teljes adatbázis JSON formátumban elérhető a <a href="/data/data.json" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">/data/data.json</a> címen
-          </p>
-          <p className="text-slate-600 dark:text-slate-400 mt-2">
-            Készítette: <a href="https://gaz.so" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">Gazsó Kristóf</a>
           </p>
           <p className="text-slate-600 dark:text-slate-400 mt-2">
             Ha hibás adatokat találsz, módosítást javasolhatsz a <Link href="https://github.com/kristofgazso/neked-dolgoznak/edit/main/frontend/public/data/data.json" className="text-blue-600 dark:text-blue-400 hover:underline">következő oldalon</Link>.
