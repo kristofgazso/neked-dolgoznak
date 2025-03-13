@@ -256,8 +256,8 @@ export default function Home() {
         valueB = b.vagyonyi_nyilatkozat?.nagy_erteku_ingok?.keszpenz?.osszeg_huf || 0;
         break;
       case 'wealth':
-        valueA = calculateTotalWealth(a) - calculateTotalDebt(a); // Net wealth
-        valueB = calculateTotalWealth(b) - calculateTotalDebt(b); // Net wealth
+        valueA = calculateTotalWealth(a); // Net wealth
+        valueB = calculateTotalWealth(b); // Net wealth
         break;
       default:
         return 0;
